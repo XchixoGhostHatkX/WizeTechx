@@ -29,7 +29,7 @@ Whether you're an aspiring developer, a cybersecurity enthusiast, or a seasoned 
 
 ## Featured Posts 🧾
 
---https://github.com/XchixoGhostHatkX/WizeTechx/blob/main/_posts/2025-03-20-Enhancing%20Cybersecurity%20with%20Open-Source%20Tools%3A%20A%20Comprehensive%20Guide.md
+https://github.com/XchixoGhostHatkX/WizeTechx/blob/main/_posts/2025-03-20-Enhancing%20Cybersecurity%20with%20Open-Source%20Tools%3A%20A%20Comprehensive%20Guide.md
 
 ## Featured Content 📚
 
