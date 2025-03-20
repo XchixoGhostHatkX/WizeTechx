@@ -1,3 +1,11 @@
+---
+title: "Enhancing Cybersecurity with Open-Source Tools. A Comprehensive Guide"
+author: WizeTechx 
+date: 2025-03-20
+layout: post
+---
+
+
 # Enhancing Cybersecurity with Open-Source Tools: A Comprehensive Guide
 ## Introduction
 
