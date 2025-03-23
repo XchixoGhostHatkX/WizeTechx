@@ -6,6 +6,9 @@
   In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
   Add your open source license, GitHub uses MIT license.
 -->
+---
+<img src="https://drive.google.com/uc?export=view&id=1HoJHKFv0L6sPykcfSlh602emThrdkzPT" alt="My Image" title="Portrait" style="width: 100%; max-width: 600px; display: block; margin: auto;">
+
 
 # Welcome to WizeTechx 🌐
 
